@@ -5,8 +5,6 @@
   <img src="" alt="Dashboard Preview" width="100%">
 </p>
 
-> **Spoiler:** O dashboard ficou simplesmente *serving* tudo o que a business pediu! 💅✨
-
 ---
 
 ## 📌 Sobre o Desafio
