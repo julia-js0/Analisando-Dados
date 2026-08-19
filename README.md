@@ -1,12 +1,12 @@
-# 📊 Desafio 1: Bootcamp Santander Power BI
+# 📊 Projeto: 1
 
 <p align="center">
  
-  <img src="tela.png" alt="Dashboard Preview" width="100%">
+  ![imagem](https://raw.githubusercontent.com/julia-js0/Analisando-Dados/refs/heads/main/imagens/tela.png) 
 </p>
 
 ---
 
 ## 📌 Sobre o Desafio
-Este repositório armazena a minha solução para o **primeiro desafio prático de Power BI** do Bootcamp Santander.O objetivo principal foi treinar a habilidade de criação de visuais.
+O objetivo principal foi treinar a habilidade de criação de visuais,**desafio prático de Power BI** do Bootcamp Santander.
 
